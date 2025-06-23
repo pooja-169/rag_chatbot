@@ -4,7 +4,8 @@ import streamlit as st
 from scraper import extract_text_from_url
 from preprocess import chunk_text
 from retriever import retrieve_from_custom_index
-from gemini_generator import generate_answer_from_chunks
+from src.gemini_generator import generate_answer_from_chunks
+
 
 st.set_page_config(page_title="Webpage RAG Chatbot", layout="centered")
 
