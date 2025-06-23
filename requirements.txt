@@ -6,3 +6,4 @@ PyPDF2
 streamlit
 newspaper3k
 lxml[html_clean]
+python-dotenv
