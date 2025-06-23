@@ -1,0 +1,8 @@
+transformers
+faiss-cpu
+sentence-transformers
+numpy
+PyPDF2
+streamlit
+newspaper3k
+lxml[html_clean]
